@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <h2 align="center">🎮 Steam Profile</h2>
 <div align=center>
     <a href="https://steamcommunity.com/id/ddino99/" target="_blank">
-        <img src="https://steam-stat.vercel.app/api?profileName=ddino99" href="https://steamcommunity.com/id/ddino99/"/>
+      <img src="https://steam-stat.vercel.app/api?profileName=ddino99&refresh=1" />
     </a>
 </div>
 <div align="center"> Steam profile card powered by https://github.com/Ananto30/steam-stat </div>
