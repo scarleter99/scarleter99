@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 <p align="left">
   <strong>Name:</strong> Kim Taebum<br>
   <strong>Introduce:</strong> Game Client Developer <br>
-  <strong>Education:</strong> Kookmin University, Seoul, South Korea 🇰🇷, Major in Software Engineering 💻 <br>
+  <strong>Education:</strong> Kookmin University, Seoul, South Korea 🇰🇷, Major in Software Engineering<br>
 </p>
 
-<h2 align="center">🎮 Game Development Projects</h2>
+<h2 align="center">💻 Game Development Projects</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scarleter99&repo=unity-face-the-abyss&theme=dark)](https://github.com/scarleter99/unity-face-the-abyss)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scarleter99&repo=kmu-cs-rogue-2022&theme=dark)](https://github.com/scarleter99/procademy-game-server)
