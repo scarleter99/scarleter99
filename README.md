@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img width="256" height="30" alt="Pearl_Abyss_Logo" src="https://github.com/user-attachments/assets/1ef720f1-ce4c-45d5-b05a-9c20bf999a64" alt="Internship Image"><br>
-  Internship experience as a game developer at <strong>Peal Abyss</strong></a> (2025.01 - 2023.02). 
+  Internship Experience as a Game Developer at <strong>Pearl Abyss</strong></a> (2025.01 - 2025.02). 
 </p>
 
 <h2 align="center">🎮 Steam Profile</h2>
