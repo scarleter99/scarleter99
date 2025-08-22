@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <h2 align="center">💻 Game Development Projects</h2>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scarleter99&repo=unity-face-the-abyss&theme=dark)](https://github.com/scarleter99/unity-face-the-abyss)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scarleter99&repo=kmu-cs-rogue-2022&theme=dark)](https://github.com/scarleter99/procademy-game-server)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scarleter99&repo=unity-gps-winter-project&theme=dark)](https://github.com/scarleter99/procademy-game-servere)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scarleter99&repo=kmu-cs-rogue-2022&theme=dark)](https://github.com/scarleter99/kmu-cs-rogue-2022)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scarleter99&repo=unity-gps-winter-project&theme=dark)](https://github.com/scarleter99/unity-gps-winter-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=scarleter99&repo=procademy-game-server&theme=dark)](https://github.com/scarleter99/procademy-game-server)
 
 <h2 align="center">⚙️ Tech Stack</h2>
