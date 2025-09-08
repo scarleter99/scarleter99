@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left">
   <strong>Name:</strong> Kim Taebum<br>
-  <strong>Introduce:</strong> Game Client Developer <br>
+  <strong>Introduce:</strong> Game Developer <br>
   <strong>Education:</strong> Kookmin University, Seoul, South Korea 🇰🇷, Major in Software Engineering<br>
 </p>
 
